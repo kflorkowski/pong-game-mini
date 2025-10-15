@@ -14,6 +14,8 @@ It runs entirely with Python’s standard library.
 3. Open a terminal (or command prompt) and navigate to the project folder.  
 4. Run the script: `python main.py`
 
+![img.png](images/img.png)
+
 ## Usage guide
 
 After running the game, a black window will open with two paddles and a blue ball in the center.  
