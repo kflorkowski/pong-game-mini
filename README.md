@@ -12,7 +12,7 @@ It runs entirely with Python’s standard library.
 1. Make sure you have **Python 3.6 or higher** installed.  
 2. Download the **PongGame** project.  
 3. Open a terminal (or command prompt) and navigate to the project folder.  
-4. Run the script: `python main.py`
+4. Run the script: `python .\ponggame\main.py`
 
 ## Usage guide
 
